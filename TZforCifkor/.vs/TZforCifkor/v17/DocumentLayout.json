@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|c:\\users\\\u0431\u0443\u043B\u0430\u0442\\desktop\\tzforcifkor\\assets\\scripts\\tabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\assets\\scripts\\gameinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\assets\\scripts\\dogbuttonpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dogbuttonpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\assets\\scripts\\dogui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dogui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\assets\\scripts\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\assets\\scripts\\weatherview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weatherview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\assets\\scripts\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\assets\\scripts\\requestqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D4EB4-B13C-346B-F6A9-25C386331D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\requestqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogButtonPool.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\DogButtonPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DogButtonPool.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\DogButtonPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DogButtonPool.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:07:11.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DogUI.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\DogUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DogUI.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\DogUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DogUI.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:38:45.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DogService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\DogService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DogService.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\DogService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:37:51.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherView.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\WeatherView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeatherView.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\WeatherView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeatherView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:24:42.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\WeatherService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:16:34.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestQueue.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\RequestQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RequestQueue.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\RequestQueue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RequestQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:07:22.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\TabManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TabManager.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\TabManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TabManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:02:52.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\GameInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInstaller.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043B\u0430\u0442\\Desktop\\TZforCifkor\\Assets\\Scripts\\GameInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:35:53.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
