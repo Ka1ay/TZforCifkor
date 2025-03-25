@@ -1,0 +1,23 @@
+# Unity Generated Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vscode/
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.suo
+*.sln.dotSettings
+*.idea/
+*.asset.meta
+*.prefab.meta
+
+# Packages
+Packages/
